@@ -32,6 +32,11 @@ Renew automatically
 ___
 How to use API
 
+download sina- data from Sina by API 
+
+the API details :   http://www.360doc.com/content/14/0304/12/1944636_357602232.shtml
+
+try 
 
 5. Module
 ___
